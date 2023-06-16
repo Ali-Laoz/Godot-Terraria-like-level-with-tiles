@@ -1,4 +1,22 @@
-#Godot-Terraria-like-level-with-tiles
+#Godot-Terraria-like-level-with-tiles<br>
+
+#How to use:
+#Move keys: w,s,a,d
+#Camera move keys , arrows-> left, right,up ,down 
+#Camera zoom keys - pageup(zoom in) pagedown(zoom out)->if u zoom out too much u see the level generation around u
+#ADD some blocks -> mouse right
+#Earse some blocks -> mouse left 
+
+#this is not final game not implemanted water here
+#there some bugs 
+
+
+#Undergorund: going to 6000 blocks after that missing some features
+#Left: going to minus blocks will make bugs to
+#Right: going to 32,768+- will be end of blocks 
+
+#There is assets and code i use to make it faster to build this project:
+  asset library: https://godotengine.org/asset-library/asset/120
 
 
 
